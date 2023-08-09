@@ -13,8 +13,7 @@
 [pages/base_page.py](pages/base_page.py) Класс базовой страницы, с базовыми функциями  
 [pages/auth_page.py](pages/auth_page.py) Класс страницы авторизации, содержит необходимые локаторы и функции  
 [pages/user_page.py](pages/user_page.py) Класс страницы профиля пользователя, содержит необходимые локаторы и функции  
-[pages/registration_page.py](pages/registration_page.py) Класс страницы регистрации, содержит необходимые локаторы и функции  
-[chromedriver-win64/chromedriver.exe](chromedriver-win64/chromedriver.exe) Веб-драйвер браузера Google Chrome  
+[pages/registration_page.py](pages/registration_page.py) Класс страницы регистрации, содержит необходимые локаторы и функции   
 
 Запуск тестов
 -------------
