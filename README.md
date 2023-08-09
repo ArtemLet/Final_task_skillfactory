@@ -5,7 +5,7 @@
 
 Файлы
 -----
-[chromedriver-win64/chromedriver.exe](chromedriver-win64/chromedriver.exe) Веб-драйвер браузера Google Chrome  
+[chromedriver.exe](chromedriver.exe) Веб-драйвер браузера Google Chrome  
 [tests/conftest.py](tests/conftest.py) Фикстуры для выполнения тестов  
 [tests/test_auth.py](tests/test_auth.py) Содержит тесты веб-интерфейса  
 [settings.py](settings.py) Настройка переменных окружения  
